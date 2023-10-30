@@ -1,2 +1,2 @@
 # vue2-cli-web
-vue2框架
+vue2脚手架
